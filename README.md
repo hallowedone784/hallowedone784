@@ -6,7 +6,7 @@ I'm a college freshman at UC Berkeley and I like to code in my spare time! It's 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavo.seabunny) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@orgablorgYT) 
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Haxe](https://img.shields.io/badge/HaxeFlixel-EA8220.svg?style=for-the-badge&logo=haxe&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-00A2FF.svg?style=for-the-badge&logo=robloxstudio&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Haxe](https://img.shields.io/badge/Haxe-EA8220.svg?style=for-the-badge&logo=haxe&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-00A2FF.svg?style=for-the-badge&logo=robloxstudio&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=hallowedone784&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=hallowedone784&theme=dark&hide_border=false)<br/>
